@@ -152,13 +152,11 @@ body {
     width: 315px;
     height: 56px;
     border-radius: 128px;
-    background: var(--Dark-Navy, #303B59);
+    background: var(--Gradient-1, linear-gradient(180deg, #75F 0%, #6943FF 0.01%, #2F2CE9 100%));
     margin-top: 24px;
 }
 .cont {
     color: var(--White, #FFF);
     font-size: 18px;
     font-weight: 700;
-    margin-top: 14px;
-    margin-left: 120px;
 }
